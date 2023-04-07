@@ -5,3 +5,6 @@
 |22C12005| Nguyễn Dương Minh Tâm |22C12005@student.hcmus.edu.vn|
 |22C12004| Phan Lại Nhật Minh |22C12004@student.hcmus.edu.vn|
 |22C12007| Lê Trường Vĩ |22C12007@student.hcmus.edu.vn|
+
+## Video hướng dẫn chạy thuật toán RSA để mã hóa - giải mã tin trên google colab
+		https://youtu.be/rRGOkERDv4U
